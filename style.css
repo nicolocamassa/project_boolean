@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background{
+    width: 100%;
+    object-fit: cover;
+}
+
+.square{
+    background-color: rgba(47, 47, 47, 0.646);
+    width: 60%;
+    height: 90%;
+    top: 5%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.logo-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10%;
+}
+.logo{
+    width: 20%;
+}
+
+.title-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10%;
+    font-family: sans-serif;
+    color: rgb(0, 221, 0);
+}
+
+.button-div{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10%;
+    font-family: sans-serif;
+    background-color: rgb(0, 221, 0);
+}
+
+.button{
+    margin-right: 5px;
+}
+
+
+
+.checklist{
+    display: flex;
+    margin-left: 10%;
+
+    position: relative;
+    top: 11%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.checklist2{
+    display: flex;
+    margin-left: 10%;
+
+    position: relative;
+    top: 8%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.checklist3{
+    display: flex;
+    margin-left: 10%;
+
+    position: relative;
+    top: 5%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.info{
+    position: relative;
+    margin-left: 10%;
+    top: 8%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.info2{
+    position: relative;
+    margin-left: 10%;
+    top: 5%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.info3{
+    position: relative;
+    margin-left: 10%;
+    top: 2%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.graphic-battery{
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(245, 180, 83);
+}
+
+.graphic-battery2{
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(30, 195, 30);
+}
+
+
+.graphic-battery3{
+    width: 15%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(190, 65, 65);
+}
+
+
+
